@@ -1,0 +1,4 @@
+[core]
+    remote = mydb
+['remote "mydb"']
+    url = /home/mantra/Music/Data_base_DVC
