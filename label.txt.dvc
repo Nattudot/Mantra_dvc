@@ -1,0 +1,5 @@
+outs:
+- md5: 79495c59390e0fbbd7443993a355cb88
+  size: 58
+  hash: md5
+  path: label.txt
