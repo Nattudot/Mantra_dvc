@@ -1,4 +1,4 @@
 [core]
     remote = mydb
 ['remote "mydb"']
-    url = /home/mantra/Music/Data_base_DVC
+    url = https://mantradvc.s3.ap-south-1.amazonaws.com/filesv1/
