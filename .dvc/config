@@ -1,4 +1,4 @@
 [core]
     remote = mydb
 ['remote "mydb"']
-    url = s3://arn:aws:s3:ap-south-1:557690623606:accesspoint/mantradvc
+    url = s3://mantradvc-ume5qyjrb7fk83yantnw7yhsguewnaps3a-s3alias
